@@ -1,6 +1,6 @@
 'use strict';
 // Variables
-const API_KEY = 'oJV5SKfZZfF46D6TWgqfrtmz0XHpNFme'; // API key --Get Your own API key from http://bit.ly/3JEgxHh
+const API_KEY = '############################'; // API key --Get Your own API key from http://bit.ly/3JEgxHh
 const fromCurrencyInput = document.getElementById('from-currency');
 const toCurrencyInput = document.getElementById('to-currency');
 const fromCurrencyList = document.getElementById('from-currency-list');
